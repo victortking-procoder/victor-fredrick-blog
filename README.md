@@ -38,7 +38,6 @@ A **Django REST Framework (DRF)** powered backend for managing **portfolio proje
 * **Database**: PostgreSQL (Render free tier Postgres)
 * **Auth**: DRF Token Authentication
 * **Static**: WhiteNoise for static file serving
-* **Email**: SMTP (Zoho Mail)
 * **Deployment**: Render (Web Service + Postgres DB)
 
 ---
